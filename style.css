@@ -12387,6 +12387,13 @@ body:not(.has-dokan-sidebar).dokan-store.no-sidebar .dokan-single-store {
 /*
  * MCD styles start
 */
+.mcd-shop-background {
+    background-image: url('https://dlonra.co.za/wp-content/uploads/2022/06/DLP-Shop-Book-Notice-Books-Only.png');
+    background-position-x: right;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    background-size: 60% auto;
+}
 h2{
 	color:#000;
 }
